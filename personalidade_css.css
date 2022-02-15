@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: lightred;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+
+p{
+	font-family: Georgia;
+	line-height: 140%;
+}
+
+header h1{
+	font-size: 70px;
+	color: #F4005A; 
+	font-family: Georgia;
+	text-align: center;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid mistyrose;
+}
+
+main h2{
+	font-family: Roboto-Mono;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0px 20px 20px 100px;
+}
+main img{
+	max-width: 100%;
+}
